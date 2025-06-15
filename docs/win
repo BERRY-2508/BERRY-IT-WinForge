@@ -298,7 +298,7 @@ $xaml = @"
                                 <DropShadowEffect ShadowDepth="0" Color="#F50019" BlurRadius="0" Opacity="1"/>
                             </TextBlock.Effect>
                         </TextBlock>
-                        <TextBlock Text="- One of the many broken ones ¯\_(ツ)_/¯"
+                        <TextBlock Text="- One of the many broken ones"
                             FontSize="13" FontWeight="Bold" Foreground="#CCCCCC"
                             VerticalAlignment="Center">
                             <TextBlock.Effect>
