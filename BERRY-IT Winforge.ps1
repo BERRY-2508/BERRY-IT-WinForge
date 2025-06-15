@@ -7,7 +7,7 @@ if (-not ([Security.Principal.WindowsPrincipal]([Security.Principal.WindowsIdent
     exit
 }
 
-$logoPath = "C:\Users\Nathan\Desktop\BERRY-IT WinForge\BERRY-IT.png"
+$logoPath = "https://github.com/BERRY-2508/BERRY.IT.WEB/blob/main/BERRY-IT.png"
 if (-not (Test-Path $logoPath)) { $logoPath = "" }
 
 $apps = @(
